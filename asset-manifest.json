@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/first-app/static/css/main.a65d40d9.chunk.css",
+    "main.js": "/first-app/static/js/main.45410e74.chunk.js",
+    "main.js.map": "/first-app/static/js/main.45410e74.chunk.js.map",
+    "runtime-main.js": "/first-app/static/js/runtime-main.7b6293cf.js",
+    "runtime-main.js.map": "/first-app/static/js/runtime-main.7b6293cf.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/first-app/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.c69306bd.chunk.js": "/first-app/static/js/2.c69306bd.chunk.js",
+    "static/js/2.c69306bd.chunk.js.map": "/first-app/static/js/2.c69306bd.chunk.js.map",
+    "static/js/3.2dc9e427.chunk.js": "/first-app/static/js/3.2dc9e427.chunk.js",
+    "static/js/3.2dc9e427.chunk.js.map": "/first-app/static/js/3.2dc9e427.chunk.js.map",
+    "index.html": "/first-app/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/first-app/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.a65d40d9.chunk.css.map": "/first-app/static/css/main.a65d40d9.chunk.css.map",
+    "static/js/2.c69306bd.chunk.js.LICENSE.txt": "/first-app/static/js/2.c69306bd.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/first-app/static/media/zima-les-sneg-derevia-vetki.511be331.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b6293cf.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.c69306bd.chunk.js",
+    "static/css/main.a65d40d9.chunk.css",
+    "static/js/main.45410e74.chunk.js"
+  ]
+}
